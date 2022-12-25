@@ -1,4 +1,4 @@
-package com.makaySTPG;
+package com.makay.TrainingProgramGenerator;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,5 +1,0 @@
-interface TrainingPorgramGenerator {
-
-    public generateProgram();
-
-}
